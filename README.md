@@ -13,16 +13,16 @@ Script Linux para ativar automaticamente o tethering de internet do s3 note.
 ### Baixando projeto
 
 ```
-  git clone git@github.com:lucasfernandodev/usbTethering.git && cd usbTethering/
+git clone git@github.com:lucasfernandodev/usbTethering.git && cd usbTethering/
 ```
 
-### Dependências
+### Isstalado dependências
 
 ```
-  pip install pipenv
-  sudo pip install pipenv-shebang
+pip install pipenv
+sudo pip install pipenv-shebang
 
-  pipenv install
+pipenv install
 ```
 
 ### Iniciando script
@@ -37,7 +37,8 @@ PHONE_SERIAL=
 * PHONE_PASSWORD : Senha pincode para desbloquear o celular usando adb
 * PHONE_SERIAL : Serial do celular no Linux (use "adb devices -l" para pegar o code serial )
 
-
+<br />
+<br />
 
 Torne o script executável:
 
