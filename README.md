@@ -1,8 +1,7 @@
 # usbTethering
 
-Script Linux para ativar automaticamente o tethering de internet do s3 note.
+Script Linux para ativar automaticamente o tethering de internet no s3 note.
 
-## Como usar?
 
 ### Requisitos
 
@@ -16,7 +15,7 @@ Script Linux para ativar automaticamente o tethering de internet do s3 note.
 git clone git@github.com:lucasfernandodev/usbTethering.git && cd usbTethering/
 ```
 
-### Isstalado dependências
+### Instalado dependências
 
 ```
 pip install pipenv
