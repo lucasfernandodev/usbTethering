@@ -1,5 +1,4 @@
-import os
-from utils import runCommand
+from .utils import runCommand
 
 INTERFACE = 'usb0';
 
