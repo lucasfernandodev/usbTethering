@@ -26,7 +26,7 @@ pipenv install
 
 ## Configurando
 
-Crie um arquivo .env e add: 
+Crie um arquivo .env e adicione:
 
 ```
 PHONE_PASSWORD=
