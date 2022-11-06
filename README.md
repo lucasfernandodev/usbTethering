@@ -24,7 +24,7 @@ sudo pip install pipenv-shebang
 pipenv install
 ```
 
-### Iniciando script
+### Configurando
 
 Crie um arquivo .env e add: 
 
@@ -36,19 +36,12 @@ PHONE_SERIAL=
 * PHONE_PASSWORD : Senha pincode para desbloquear o celular usando adb
 * PHONE_SERIAL : Serial do celular no Linux (use "adb devices -l" para pegar o code serial )
 
-<br />
-<br />
+### Iniciando projeto
 
-Torne o script executável:
-
-```
-chmod +x usbTethering.sh
-```
-
-Inicie o script
+Tornando o script executável e inciando
 
 ```
-./usbTethering.sh
+chmod +x usbTethering.sh && ./usbTethering.sh
 ```
 
 
