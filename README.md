@@ -43,6 +43,9 @@ Tornando o script executável e inciando
 chmod +x usbTethering.sh && ./usbTethering.sh
 ```
 
+<br />
+<br />
+
 ##### - Testado no Samsung s3 note com android 5.0
 
 ### Referência
