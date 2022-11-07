@@ -39,11 +39,11 @@ PHONE_SERIAL=
 
 Tornando o script executável e inciando
 
-```
+```shell
 chmod +x usbTethering.sh && ./usbTethering.sh
 ```
 
-##### Testa do no Samsung s3 note com android 5.0
+##### * Testa do no Samsung s3 note com android 5.0
 
 ### Referência
 - <a href="https://pipenv.readthedocs.io/">Documentação do pipenv</a>
