@@ -6,8 +6,7 @@ Script Linux para ativar automaticamente o tethering de internet no s3 note.
 ## Requisitos
 
 - adb
-- usb debug ativo no android
-- Testado no s3 note com android 5.0
+- USB Debugging ativo no android
 
 ## Baixando projeto
 
@@ -44,6 +43,7 @@ Tornando o script executável e inciando
 chmod +x usbTethering.sh && ./usbTethering.sh
 ```
 
+##### Testa do no Samsung s3 note com android 5.0
 
 ### Referência
 - <a href="https://pipenv.readthedocs.io/">Documentação do pipenv</a>
